@@ -14,7 +14,7 @@ I wrote a full investigative-style report and designed a PowerPoint presentation
 ## 🧩 CCARR Breakdown (Challenge, Context, Action, Result, Reflection)
 
 ### 🔹 **Challenge / Context**  
-For my Application Security class, I needed to research and present a real-world data breach. I wanted to choose a case that had both technical depth and social impact, and the Ashley Madison breach checked both boxes. It wasn’t just about weak passwords or lazy security—it exposed a flawed system built on promises of secrecy, trust, and discretion.
+For my Application Security class, I needed to research and present a real-world data breach. I wanted to choose a case that had both technical depth and social impact, and the Ashley Madison breach checked both boxes. It wasn’t just about weak passwords or lazy security, it exposed a flawed system built on promises of secrecy, trust, and discretion.
 
 ### 🔧 **Action**  
 I researched the breach from both technical and ethical angles. I examined how the Impact Team exploited Ashley Madison's lack of segmentation, poor password encryption, and failure to secure user data. I compiled my findings into a well-organized written report and built a presentation to walk through the timeline, root causes, and lessons learned. I also analyzed the fallout, including the legal, financial, and personal consequences.
@@ -30,7 +30,7 @@ The final result was a comprehensive report and presentation that covered:
 I received strong feedback on how clearly I communicated both the technical failures and ethical consequences. It helped sharpen my analytical thinking and gave me practice presenting complex topics in an understandable way.
 
 ### 💭 **Reflection**  
-This project showed me how security is about much more than code—it’s about trust. Ashley Madison failed not just as a platform, but as a promise to its users. It reminded me that security needs to be baked into every layer of design, especially when handling sensitive data. It also reinforced my interest in ethical tech development and responsible system design.
+This project showed me how security is about much more than code... it’s about trust. Ashley Madison failed not just as a platform, but as a promise to its users. It reminded me that security needs to be baked into every layer of design, especially when handling sensitive data. It also reinforced my interest in ethical tech development and responsible system design.
 
 ---
 
