@@ -35,7 +35,7 @@ This project showed me how security is about much more than code... it’s about
 ---
 
 ## 📁 Files Included  
-- 📝 [AshleyMadison_Report.pdf](#) – Full written report  
+- 📝 [Ashley Madison Data Leak.pdf](https://github.com/KaylaKRada/AshleyMadisonHack/blob/main/Ashley%20Madison%20data%20leak.pdf) – Report Document
 - 📊 [AshleyMadison_Presentation.pptx](#) – PowerPoint presentation  
 - `README.md` – You're reading it!
 
