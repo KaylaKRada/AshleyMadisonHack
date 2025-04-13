@@ -1,39 +1,56 @@
-🔐 Ashley Madison Data Breach – Application Security Research Project
-Course: Application Security (Spring 2024)
-Created by: Kayla Rada
+# 🔓 Ashley Madison Data Breach Report – Application Security  
+**Course:** Application Security  
+**Created by:** Kayla Rada  
 
-✨ Overview
-This project was a deep dive into one of the most notorious data breaches in recent history. The 2015 Ashley Madison hack. As part of my Application Security course, I researched the full scope of the incident, from how the breach occurred to the lasting ethical and technical implications. I compiled my findings into a detailed written report and a PowerPoint presentation. This project sharpened my understanding of real-world cybersecurity failures and taught me what can go wrong when trust, transparency, and security aren’t prioritized.
+---
 
-🚨 CCARR Breakdown (Challenge, Context, Action, Result, Reflection)
-🔹 Challenge / Context
-The assignment was to investigate a major cybersecurity breach, identify how it happened, and analyze both the technical and human vulnerabilities involved. I chose the Ashley Madison breach because of its unique mix of social, ethical, and technical failures—and its wide-reaching impact on real people.
+## 🕵️‍♀️ Overview  
+This research project dives deep into one of the most infamous cybersecurity breaches of the last decade: the 2015 Ashley Madison hack. The assignment asked us to explore a real-world security incident, analyze how it happened, and reflect on what we could learn to prevent similar attacks in the future.
 
-🔧 Action
-I conducted extensive research on the timeline of the breach, the actors involved (like Impact Team), and the underlying vulnerabilities—like weak password storage, poor encryption, and lack of internal security segmentation. I created a professional-style report detailing the root causes and failures in both policy and infrastructure. Alongside the report, I built a presentation to walk through the technical breakdown and offer practical takeaways for improving application security.
+I wrote a full investigative-style report and designed a PowerPoint presentation to communicate the events, technical failures, and ethical dilemmas that made the breach so catastrophic. This case stood out not only for the data exposure, but for the devastating human impact it caused—and how much of it could have been prevented.
 
-✅ Result
-My final deliverables included:
+---
 
-A written report documenting the breach, the technical failures, and ethical dilemmas
+## 🧩 CCARR Breakdown (Challenge, Context, Action, Result, Reflection)
 
-A presentation summarizing the event and recommending preventive security practices
+### 🔹 **Challenge / Context**  
+For my Application Security class, I needed to research and present a real-world data breach. I wanted to choose a case that had both technical depth and social impact, and the Ashley Madison breach checked both boxes. It wasn’t just about weak passwords or lazy security—it exposed a flawed system built on promises of secrecy, trust, and discretion.
 
-A well-rounded understanding of application security concepts, including encryption, segmentation, ethical hacking, and user trust
+### 🔧 **Action**  
+I researched the breach from both technical and ethical angles. I examined how the Impact Team exploited Ashley Madison's lack of segmentation, poor password encryption, and failure to secure user data. I compiled my findings into a well-organized written report and built a presentation to walk through the timeline, root causes, and lessons learned. I also analyzed the fallout, including the legal, financial, and personal consequences.
 
-💭 Reflection
-This project gave me real insight into how even companies with millions of users can fail at the fundamentals of cybersecurity. From poor password practices to ethical missteps (like charging users for “full deletes” that didn’t fully erase data), Ashley Madison’s downfall became a case study in what not to do. It emphasized the importance of strong encryption, monitoring, transparency, and ethical responsibility in building secure systems. I left this project more aware of the stakes involved in application security—and more motivated to design safer, more responsible systems in the future.
+### ✅ **Result**  
+The final result was a comprehensive report and presentation that covered:
+- The site's origins and growth  
+- How the attack occurred  
+- A breakdown of the vulnerabilities exploited  
+- The aftermath and public response  
+- Security best practices and takeaways  
 
-📁 Files Included
-AshleyMadison_Report.pdf – Detailed research paper
+I received strong feedback on how clearly I communicated both the technical failures and ethical consequences. It helped sharpen my analytical thinking and gave me practice presenting complex topics in an understandable way.
 
-AshleyMadison_Presentation.pptx – PowerPoint summarizing the breach and lessons learned
+### 💭 **Reflection**  
+This project showed me how security is about much more than code—it’s about trust. Ashley Madison failed not just as a platform, but as a promise to its users. It reminded me that security needs to be baked into every layer of design, especially when handling sensitive data. It also reinforced my interest in ethical tech development and responsible system design.
 
-README.md – You're reading it!
+---
 
-🌟 Highlights
-🧠 Learned real-world security practices through case analysis
+## 📁 Files Included  
+- 📝 [AshleyMadison_Report.pdf](#) – Full written report  
+- 📊 [AshleyMadison_Presentation.pptx](#) – PowerPoint presentation  
+- `README.md` – You're reading it!
 
-🔍 Explored human and technical failures in high-profile breach
+---
 
-🔐 Gained a better understanding of password storage, encryption, and ethical design
+## 🔐 Key Takeaways  
+- 🚨 Weak password encryption left millions vulnerable  
+- 🔍 Poor network segmentation enabled wide access  
+- 💸 Legal and financial costs were massive  
+- 💔 Human consequences made this breach uniquely damaging  
+- 📚 Rebuilding trust takes more than stronger firewalls—it takes accountability
+
+---
+
+## 🌐 Want to Learn More?  
+Feel free to explore more of my work or reach out:  
+🌍 [kaylakrada.github.io](https://kaylakrada.github.io)
+
