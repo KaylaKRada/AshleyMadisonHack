@@ -1,6 +1,7 @@
 # 🔓 Ashley Madison Data Breach Report – Application Security  
 **Course:** Application Security  
 **Created by:** Kayla Rada  
+** 🛠️ Topics: Cybersecurity, Risk Analysis, Ethics, Vulnerability Research, Incident Reporting **
 
 ---
 
